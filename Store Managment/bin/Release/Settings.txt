@@ -1,0 +1,1 @@
+Data Source=DESKTOP-T5R1S97;Initial Catalog=storedb;Integrated Security=True

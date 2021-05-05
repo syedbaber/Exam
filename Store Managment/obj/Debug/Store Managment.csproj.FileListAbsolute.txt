@@ -1,0 +1,427 @@
+C:\Users\Moin\Desktop\Store Managment\Store Managment\bin\Debug\Store Managment.exe.config
+C:\Users\Moin\Desktop\Store Managment\Store Managment\bin\Debug\Store Managment.exe
+C:\Users\Moin\Desktop\Store Managment\Store Managment\bin\Debug\Store Managment.pdb
+C:\Users\Moin\Desktop\Store Managment\Store Managment\bin\Debug\Guna.UI.dll
+C:\Users\Moin\Desktop\Store Managment\Store Managment\bin\Debug\Guna.UI.pdb
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Properties.Resources.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store Managment.csproj.GenerateResource.Cache
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store Managment.exe
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store Managment.pdb
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.HomePage.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Register.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registration.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registeration_Add.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registration_Edit.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Add.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Edit.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Item_Regestration.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Item_Registration_Add.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Iterm_Registration_Edit.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registraion_Add.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registration.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registration_Edit.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill_Edit.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill_Add.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store Managment.csprojResolveAssemblyReference.cache
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Login.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Backup.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Add.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Edit.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registeration_Add.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration_Edit.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.Reports.resources
+C:\Users\Moin\Desktop\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\bin\Debug\Store Managment.exe.config
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store Managment.exe
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store Managment.pdb
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\bin\Debug\Store Managment.exe
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\bin\Debug\Store Managment.pdb
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\bin\Debug\Guna.UI.dll
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\bin\Debug\Guna.UI.pdb
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store Managment.csprojResolveAssemblyReference.cache
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Backup.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill_Edit.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill_Add.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Reports.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Add.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Edit.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registeration_Add.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration_Edit.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.HomePage.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Item_Regestration.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Item_Registration_Add.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Iterm_Registration_Edit.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Login.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Properties.Resources.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Register.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registraion_Add.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registration.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registration_Edit.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Add.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Edit.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registeration_Add.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registration.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registration_Edit.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store Managment.csproj.GenerateResource.Cache
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_SalesmanDet.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_SalesMan.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Income.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin_Add.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin_Edit.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Supplier.resources
+C:\Users\Moin\Desktop\pppp\New folder\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Salesman_Due.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\bin\Debug\Store Managment.exe.config
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store Managment.exe
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store Managment.pdb
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\bin\Debug\Store Managment.exe
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\bin\Debug\Store Managment.pdb
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\bin\Debug\Guna.UI.dll
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\bin\Debug\Guna.UI.pdb
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store Managment.csprojResolveAssemblyReference.cache
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin_Add.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin_Edit.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Backup.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill_Edit.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill_Add.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Income.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_SalesmanDet.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Salesman_Due.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Supplier.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Reports.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_SalesMan.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Add.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Edit.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registeration_Add.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration_Edit.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.HomePage.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Item_Regestration.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Item_Registration_Add.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Iterm_Registration_Edit.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Login.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Properties.Resources.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Register.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registraion_Add.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registration.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registration_Edit.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Add.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Edit.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registeration_Add.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registration.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registration_Edit.resources
+C:\Users\Moin\Desktop\pppp\Project\Store Managment\Store Managment\obj\Debug\Store Managment.csproj.GenerateResource.Cache
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\bin\Debug\Store Managment.exe.config
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store Managment.exe
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store Managment.pdb
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\bin\Debug\Store Managment.exe
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\bin\Debug\Store Managment.pdb
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin_Add.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin_Edit.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Backup.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill_Edit.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill_Add.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Income.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_SalesmanDet.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Salesman_Due.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Supplier.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Reports.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_SalesMan.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Add.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Edit.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registeration_Add.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.HomePage.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Item_Regestration.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Item_Registration_Add.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Iterm_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Login.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Properties.Resources.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Register.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registraion_Add.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registration.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Add.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Edit.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registeration_Add.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registration.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store Managment.csproj.GenerateResource.Cache
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\bin\Debug\Store Managment.exe.config
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store Managment.exe
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store Managment.pdb
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\bin\Debug\Store Managment.exe
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\bin\Debug\Store Managment.pdb
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\bin\Debug\Guna.UI.dll
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\bin\Debug\Guna.UI.pdb
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store Managment.csprojResolveAssemblyReference.cache
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin_Add.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Admin_Edit.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Backup.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill_Edit.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Bill_Add.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Income.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_SalesmanDet.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Salesman_Due.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_Supplier.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Reports.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Rept_SalesMan.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Add.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Edit.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registeration_Add.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration_Edit.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.HomePage.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Item_Regestration.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Item_Registration_Add.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Iterm_Registration_Edit.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Login.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Properties.Resources.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Register.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registraion_Add.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registration.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Stock_Registration_Edit.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Add.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Edit.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registeration_Add.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registration.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store_Managment.Supplier_Registration_Edit.resources
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment\Store Managment\obj\Debug\Store Managment.csproj.GenerateResource.Cache
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment Latest\Store Managment\bin\Debug\Store Managment.exe.config
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment Latest\Store Managment\obj\Debug\Store Managment.exe
+C:\Users\Moin\Downloads\gk traders vers3\gk traders vers3\Store Managment Latest\Store Managment\obj\Debug\Store Managment.pdb
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin_Add.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin_Edit.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Backup.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill_Edit.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill_Add.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Income.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_SalesmanDet.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Salesman_Due.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Supplier.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Reports.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_SalesMan.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Add.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Edit.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registeration_Add.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.HomePage.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Item_Regestration.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Item_Registration_Add.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Iterm_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Login.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Properties.Resources.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Register.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registraion_Add.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registration.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Add.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Edit.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registeration_Add.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registration.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store Managment.csproj.GenerateResource.Cache
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.exe.config
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.exe
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.pdb
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.exe
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.pdb
+E:\project\gk traders proj\gk traders vers4\Store Managment Latest latest\Store Managment\obj\Debug\Store Managment.csprojResolveAssemblyReference.cache
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.exe.config
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.exe
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.pdb
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\bin\Debug\Guna.UI.dll
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\bin\Debug\Guna.UI.pdb
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin_Add.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin_Edit.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Backup.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill_Edit.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill_Add.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Income.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_SalesmanDet.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Salesman_Due.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Supplier.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Reports.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_SalesMan.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Add.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Edit.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registeration_Add.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration_Edit.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.HomePage.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Item_Regestration.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Item_Registration_Add.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Iterm_Registration_Edit.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Login.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Properties.Resources.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Register.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registraion_Add.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registration.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registration_Edit.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Add.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Edit.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registeration_Add.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registration.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registration_Edit.resources
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\Store Managment.csproj.GenerateResource.Cache
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.exe
+C:\Users\Moin\Downloads\Store Managment Latest latest\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.pdb
+E:\Our Completed Softwares\GK Traders Haripur\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.exe.config
+E:\Our Completed Softwares\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.exe
+E:\Our Completed Softwares\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.pdb
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.exe
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.exe.config
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin_Add.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin_Edit.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Backup.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill_Edit.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill_Add.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Income.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_SalesmanDet.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Salesman_Due.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Supplier.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Reports.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_SalesMan.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Add.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Edit.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registeration_Add.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.HomePage.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Item_Regestration.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Item_Registration_Add.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Iterm_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Login.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Properties.Resources.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Register.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registraion_Add.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registration.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Add.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Edit.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registeration_Add.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registration.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registration_Edit.resources
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store Managment.csproj.GenerateResource.Cache
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.exe
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.pdb
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.pdb
+E:\project\gk traders proj\gk traders vers6\GK Traders Haripur\Store Managment Latest latest\Store Managment\obj\Debug\Store Managment.csprojResolveAssemblyReference.cache
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.exe.config
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.exe
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.pdb
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.exe
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.pdb
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin_Add.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin_Edit.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Backup.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill_Edit.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill_Add.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Income.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_SalesmanDet.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Salesman_Due.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Supplier.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Reports.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_SalesMan.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Add.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Edit.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registeration_Add.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration_Edit.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.HomePage.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Item_Regestration.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Item_Registration_Add.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Iterm_Registration_Edit.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Login.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Properties.Resources.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Register.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registraion_Add.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registration.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registration_Edit.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Add.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Edit.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registeration_Add.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registration.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registration_Edit.resources
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store Managment.csproj.GenerateResource.Cache
+E:\project\gk traders proj\maintenence 25-feb-2021\Store Managment Latest latest\Store Managment\obj\Debug\Store Managment.csprojResolveAssemblyReference.cache
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.exe.config
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.exe
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\GK Traders.pdb
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store Managment.csprojResolveAssemblyReference.cache
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin_Add.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Admin_Edit.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Backup.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill_Edit.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Bill_Add.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Income.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_SalesmanDet.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Salesman_Due.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_Supplier.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Reports.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Rept_SalesMan.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Add.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Account_Edit.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registeration_Add.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.SalesMan_Registration_Edit.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.HomePage.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Item_Regestration.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Item_Registration_Add.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Iterm_Registration_Edit.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Login.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Properties.Resources.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Register.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registraion_Add.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registration.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Stock_Registration_Edit.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Add.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Account_Edit.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registeration_Add.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registration.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store_Managment.Supplier_Registration_Edit.resources
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\obj\Debug\Store Managment.csproj.GenerateResource.Cache
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.exe
+C:\Development\gk traders project\Store Managment Latest latest\Store Managment\bin\Debug\GK Traders.pdb

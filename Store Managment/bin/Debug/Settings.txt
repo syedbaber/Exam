@@ -1,0 +1,1 @@
+Data Source=DESKTOP-Q6NS1OK\SQLEXPRESS;Initial Catalog=storedb;Integrated Security=True
